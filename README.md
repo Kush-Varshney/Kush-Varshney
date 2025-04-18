@@ -1,74 +1,108 @@
-<h1 align="center">Hey 👋 I'm Kush Varshney</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Tech Explorer</h3>
+# 👋 Hi, I'm Kush Varshney
+### Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 **Who I Am**
 
-I'm a passionate Full Stack Developer who loves turning ideas into powerful, user-friendly web applications. Whether it's building responsive UIs with React or crafting solid APIs with Node.js, I enjoy the entire process of bringing a project to life.
+I’m a curious and driven **Full Stack Developer** who thrives at the intersection of technology and creativity. With core expertise in the **MERN stack**, I build modern web applications that are not only technically sound but also user-focused and visually engaging.
 
-I thrive on challenges, believe in clean code, and enjoy learning something new every day. Let’s connect and build something awesome together 🚀
+- 💡 Passionate about building scalable, efficient, and intuitive applications.  
+- ⚙️ Proficient in **React.js**, **Node.js**, **Express.js**, and **MongoDB**.  
+- 🌐 Focused on developing seamless user interfaces, secure APIs, and working with databases for dynamic web applications.
 
----
-
-### 🛠 Tech Stack
-
-- **Languages:** JavaScript, Java, Python, C, HTML5, CSS
-- **Frontend:** React.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, Flask
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Postman, Linux, Vercel
+My strength lies in quickly understanding problems and turning ideas into production-ready solutions — whether it's crafting responsive UIs, developing secure APIs, or integrating third-party services. I take pride in writing clean, maintainable code and designing systems that scale smoothly.
 
 ---
 
-### 📌 Featured Projects
-
-🔹 **[Weather Dashboard](https://weather-dashboard-lovat-two.vercel.app/)**  
-A beautiful MERN stack weather app with live search, theming, and forecast.  
-*(Get real-time weather updates with a smooth UI experience.)*
-
-🔹 **[Virtual Resume Builder](https://github.com/Kush-Varshney/Virtual-Resume-Builder)**  
-A dynamic resume builder app with custom styling and PDF export.  
-*(Create and manage your resume in real-time.)*
-
----
-
-### 🎓 Education
-
-**B.Tech in Computer Science & Engineering**  
-GLA University, Mathura (2022 - Present)  
-📈 CPI: 8.21
-
----
-
-### 💼 Experience
-
-**Software Developer Intern @ Coding Blocks Pvt. Ltd. (EdTech)**  
-*Jun 2024 – Aug 2024 | Remote*  
-- Optimized backend API performance & caching with Redis  
-- Improved data exchange by 30% & UI performance by 40%  
-- Worked with React, Node.js, and MongoDB in a production environment
-
----
-
-### 📜 Certifications
-
-- 🏆 Competitive Programming - Coding Blocks  
-- 🤖 Generative AI & AIOps Workshop - IndiaAI
-
----
-
-### 📫 Let's Connect
-
-- 🌐 [Portfolio Website](https://kushvarshney.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kush-varshney-490baa250/)  
-- 🐦 [X (Twitter)](https://x.com/KushVar29010660)  
-- 📸 [Instagram](https://www.instagram.com/kush_varshney_/#)  
-- 📘 [Facebook](https://www.facebook.com/kush.varshney.338)  
-- 📬 Email: kushvarshney708@gmail.com  
-
----
+### 🔧 **Technical Skills**
 
 <p align="center">
-  🔍 *Thanks for stopping by! Check out my projects, connect with me, and let's collaborate!* 💻✨
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Frontend-React.js-orange?style=for-the-badge&logo=react" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Database-MongoDB-blue?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/API-Express.js-grey?style=for-the-badge&logo=express" alt="Express.js" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Version%20Control-Git%20&%20GitHub-purple?style=for-the-badge&logo=git" alt="Git & GitHub" />
+  </a>
+  <a href="https://postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Testing-Postman-F26B00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+</p>
+
+---
+
+### 🚀 **Featured Projects**
+
+#### 🌤 [Weather Dashboard](https://weather-dashboard-lovat-two.vercel.app/)
+- **Stack**: MERN (MongoDB, Express, React, Node.js)
+- **Overview**: A dynamic weather application with real-time updates, search history, and light/dark mode toggle.
+- **Features**:
+  - Integrated with **OpenWeatherMap API**
+  - Responsive design using **Tailwind CSS**
+  - Search history & theming support
+
+#### 📄 [Virtual Resume Builder](https://github.com/Kush-Varshney/Virtual-Resume-Builder)
+- **Stack**: React.js, Node.js
+- **Overview**: An interactive tool that allows users to create, edit, and export professional resumes.
+- **Features**:
+  - Custom templates
+  - Real-time data entry and preview
+  - Authentication and resume storage
+
+---
+
+### 🌐 **Portfolio**
+
+<p align="center">
+  <a href="https://kushvarshney.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-kushvarshney-orange?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
+  </a>
+</p>
+
+---
+
+### 📫 **Contact Me**
+
+<p align="center">
+  <a href="mailto:kushvarshney708@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-kushvarshney708%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🤝 **Connect with Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kush-varshney-490baa250/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-KushVarshney-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/KushVar29010660" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/kush_varshney_/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/kush.varshney.338" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+### 🙏 **Thank You for Visiting**
+
+<p align="center">
+  I appreciate you taking the time to explore my profile.  
+  I'm always excited to connect with like-minded professionals, collaborate on meaningful projects, and take on new challenges.  
+  Feel free to reach out — let's create something impactful together.
 </p>
