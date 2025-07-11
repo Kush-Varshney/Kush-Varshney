@@ -50,7 +50,7 @@ My strength lies in quickly understanding problems and turning ideas into produc
   - Responsive design using **Tailwind CSS**
   - Search history & theming support
 
-#### 📄 [Virtual Resume Builder](https://github.com/Kush-Varshney/Resume-Builder)
+#### 📄 [Resume Builder](https://github.com/Kush-Varshney/Resume-Builder)
 - **Stack**: React.js, Node.js
 - **Overview**: An interactive tool that allows users to create, edit, and export professional resumes.
 - **Features**:
