@@ -79,6 +79,16 @@ I’m a passionate **Full Stack Developer** with a strong focus on building secu
 
 ---
 
+## 💼 My Portfolio
+
+<p align="center">
+  <a href="https://kushvarshney.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-Live-orange?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📄 Resume
 
 <p align="center">
